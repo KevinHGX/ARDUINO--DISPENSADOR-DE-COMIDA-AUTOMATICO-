@@ -1,5 +1,7 @@
 # <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px> Dispensador Automático de Alimentos para Mascotas
 
+![Little Pet](./Cat.gif)
+
 ## Introducción
 
 Este proyecto se centra en la creación de un dispensador automático de alimentos para mascotas utilizando componentes de Arduino. El objetivo es proporcionar una alimentación regular y controlada a las mascotas, optimizando el proceso mediante la automatización y mejorando la calidad de vida tanto de las mascotas como de sus dueños.
